@@ -1,7 +1,3 @@
-const {
-  doc
-} = require("mocha/lib/reporters");
-
 let order = 1;
 let adding = false;
 
